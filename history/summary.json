@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.babsy.ch.ico",
     "slug": "babsy",
     "status": "up",
-    "uptime": "34.29%",
-    "uptimeDay": "34.29%",
-    "uptimeWeek": "34.29%",
-    "uptimeMonth": "34.29%",
-    "uptimeYear": "34.29%",
-    "time": 4448,
-    "timeDay": 4448,
-    "timeWeek": 4448,
-    "timeMonth": 4448,
-    "timeYear": 4448,
-    "dailyMinutesDown": {
-      "2024-10-01": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 4789,
+    "timeDay": 4789,
+    "timeWeek": 4789,
+    "timeMonth": 4789,
+    "timeYear": 4789,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Babsy Verein",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 922,
-    "timeDay": 922,
-    "timeWeek": 922,
-    "timeMonth": 922,
-    "timeYear": 922,
+    "time": 880,
+    "timeDay": 880,
+    "timeWeek": 880,
+    "timeMonth": 880,
+    "timeYear": 880,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 744,
-    "timeDay": 744,
-    "timeWeek": 744,
-    "timeMonth": 744,
-    "timeYear": 744,
+    "time": 739,
+    "timeDay": 739,
+    "timeWeek": 739,
+    "timeMonth": 739,
+    "timeYear": 739,
     "dailyMinutesDown": {}
   }
 ]
