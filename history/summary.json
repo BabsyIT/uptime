@@ -4,18 +4,20 @@
     "url": "https://www.babsy.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.babsy.ch.ico",
     "slug": "babsy",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 5799,
-    "timeDay": 5799,
-    "timeWeek": 5799,
-    "timeMonth": 5799,
-    "timeYear": 5799,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 5156,
+    "timeDay": 5156,
+    "timeWeek": 5156,
+    "timeMonth": 5156,
+    "timeYear": 5156,
+    "dailyMinutesDown": {
+      "2024-10-01": 0
+    }
   },
   {
     "name": "Babsy Verein",
