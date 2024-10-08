@@ -8,7 +8,6 @@ sites:
     assignees:
       - Oliver-Babsy
       - stefan-ffr
-      - Babsy-IT
   - name: Babsy Verein
     url: https://verein.babsy.ch
     assignees:
