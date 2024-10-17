@@ -3,11 +3,11 @@ owner: Babsy-IT # Your GitHub organization or username, where this repository li
 repo: uptime # The name of this repository
 
 sites:
-  - name: Babsy
-    url: https://www.babsy.ch
-    assignees:
-      - Oliver-Babsy
-      - stefan-ffr
+#  - name: Babsy
+#    url: https://www.babsy.ch
+#    assignees:
+#      - Oliver-Babsy
+#      - stefan-ffr
   - name: Babsy Verein
     url: https://verein.babsy.ch
     assignees:
