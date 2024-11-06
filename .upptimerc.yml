@@ -27,7 +27,50 @@ sites:
     assignees:
       - stefan-ffr
       - Oliver-Babsy
-
+  - name: Babsy Service E-Mail Server Webinterface
+    url: https://mail.service.babsy.ch
+    assignees:
+      - stefan-ffr
+  - name: Babsy Service E-Mail Server SMTP
+    url: mail.service.babsy.ch
+    port: 25
+    assignees:
+      - stefan-ffr
+  - name: Babsy Service E-Mail Server SMTPS
+    url: mail.service.babsy.ch
+    port: 465
+    assignees:
+      - stefan-ffr
+  - name: Babsy Service E-Mail Server Submission
+    url: mail.service.babsy.ch
+    port: 587
+    assignees:
+      - stefan-ffr
+  - name: Babsy Service E-Mail Server IMAP
+    url: mail.service.babsy.ch
+    port: 143
+    assignees:
+      - stefan-ffr
+  - name: Babsy Service E-Mail Server IMAPS
+    url: mail.service.babsy.ch
+    port: 993
+    assignees:
+      - stefan-ffr
+  - name: Babsy Service E-Mail Server POP3
+    url: mail.service.babsy.ch
+    port: 110
+    assignees:
+      - stefan-ffr
+  - name: Babsy Service E-Mail Server POP3S
+    url: mail.service.babsy.ch
+    port: 995
+    assignees:
+      - stefan-ffr
+  - name: Babsy Service E-Mail Server Dovecot ManageSieve
+    url: mail.service.babsy.ch
+    port: 4190
+    assignees:
+      - stefan-ffr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
