@@ -60,9 +60,9 @@
     "url": "https://newsletter.babsy.ch",
     "icon": "https://icons.duckduckgo.com/ip3/newsletter.babsy.ch.ico",
     "slug": "babsy-newslettertool-listmonk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 544,
     "timeMonth": 547,
     "timeYear": 519,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-08": 0
+    }
   },
   {
     "name": "Babsy Service E-Mail Server Webinterface",
