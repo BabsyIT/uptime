@@ -23,7 +23,7 @@ sites:
       - stefan-ffr
       - Oliver-Babsy
   - name: Babsy Newslettertool Listmonk
-    url: https://newsletter.babsy.ch
+    url: http://newsletter.babsy.ch
     assignees:
       - stefan-ffr
       - Oliver-Babsy
