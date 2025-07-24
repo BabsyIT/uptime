@@ -8,6 +8,11 @@ sites:
 #    assignees:
 #      - Oliver-Babsy
 #      - stefan-ffr
+  - name: Babsy
+    url: https://babsy.ch/
+    assignees:
+      - Oliver-Babsy
+      - stefan-ffr
   - name: Babsy Verein
     url: https://verein.babsy.ch
     assignees:
