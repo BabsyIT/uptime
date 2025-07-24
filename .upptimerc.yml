@@ -10,6 +10,7 @@ sites:
 #      - stefan-ffr
   - name: Babsy
     url: https://babsy.ch/
+    icon: https://babsy.ch/wp-content/uploads/2021/12/cropped-babsy-logo-1.png
     assignees:
       - Oliver-Babsy
       - stefan-ffr
@@ -18,11 +19,25 @@ sites:
     assignees:
       - Oliver-Babsy
       - stefan-ffr
-  - name: Babsy Jitsi
+  - name: Babsy Server dashboard-api.babsy.ch
+    check: "tcp-ping"
+    url: dashboard-api.babsy.ch
+    port: 80
+    assignees:
+      - Oliver-Babsy
+      - stefan-ffr
+  - name: Babsy Server docker1.infra.babsy.ch
+    check: "tcp-ping"
+    url: docker1.infra.babsy.ch
+    port: 80
+    assignees:
+      - Oliver-Babsy
+      - stefan-ffr
+ - name: Babsy Jitsi
     url: https://jitsi.babsy.ch
     assignees:
       - stefan-ffr
-  - name: Babsy Bitwarden Passwortmanager
+  - name: Babsy Bitwarden Passwordmanager
     url: https://bitwarden.babsy.ch
     assignees:
       - stefan-ffr
