@@ -33,7 +33,7 @@ sites:
     assignees:
       - Oliver-Babsy
       - stefan-ffr
- - name: Babsy Jitsi
+  - name: Babsy Jitsi
     url: https://jitsi.babsy.ch
     assignees:
       - stefan-ffr
