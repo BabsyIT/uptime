@@ -4,11 +4,11 @@
     "url": "https://verein.babsy.ch",
     "icon": "https://icons.duckduckgo.com/ip3/verein.babsy.ch.ico",
     "slug": "babsy-verein",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 1407,
     "timeDay": 1001,
@@ -16,6 +16,7 @@
     "timeMonth": 1664,
     "timeYear": 1407,
     "dailyMinutesDown": {
+      "2025-07-24": 12,
       "2024-11-09": 122
     }
   },
@@ -24,54 +25,59 @@
     "url": "https://jitsi.babsy.ch",
     "icon": "https://icons.duckduckgo.com/ip3/jitsi.babsy.ch.ico",
     "slug": "babsy-jitsi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 804,
     "timeDay": 760,
     "timeWeek": 935,
     "timeMonth": 875,
     "timeYear": 804,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-24": 11
+    }
   },
   {
     "name": "Babsy Bitwarden Passwortmanager",
     "url": "https://bitwarden.babsy.ch",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.babsy.ch.ico",
     "slug": "babsy-bitwarden-passwortmanager",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 581,
     "timeDay": 655,
     "timeWeek": 1241,
     "timeMonth": 742,
     "timeYear": 581,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-24": 11
+    }
   },
   {
     "name": "Babsy Newslettertool Listmonk",
     "url": "http://newsletter.babsy.ch",
     "icon": "https://icons.duckduckgo.com/ip3/newsletter.babsy.ch.ico",
     "slug": "babsy-newslettertool-listmonk",
-    "status": "up",
-    "uptime": "52.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "52.60%",
+    "status": "down",
+    "uptime": "52.65%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "52.65%",
     "time": 670,
     "timeDay": 652,
     "timeWeek": 814,
     "timeMonth": 800,
     "timeYear": 670,
     "dailyMinutesDown": {
+      "2025-07-24": 11,
       "2025-04-27": 656,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
@@ -220,136 +226,150 @@
     "url": "https://mail.service.babsy.ch",
     "icon": "https://icons.duckduckgo.com/ip3/mail.service.babsy.ch.ico",
     "slug": "babsy-service-e-mail-server-webinterface",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 676,
     "timeDay": 608,
     "timeWeek": 716,
     "timeMonth": 717,
     "timeYear": 676,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-24": 11
+    }
   },
   {
     "name": "Babsy Service E-Mail Server SMTP",
     "url": "mail.service.babsy.ch",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "babsy-service-e-mail-server-smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 124,
     "timeDay": 113,
     "timeWeek": 126,
     "timeMonth": 117,
     "timeYear": 124,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-24": 9
+    }
   },
   {
     "name": "Babsy Service E-Mail Server SMTPS",
     "url": "mail.service.babsy.ch",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "babsy-service-e-mail-server-smtps",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 121,
     "timeDay": 112,
     "timeWeek": 125,
     "timeMonth": 117,
     "timeYear": 121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-24": 8
+    }
   },
   {
     "name": "Babsy Service E-Mail Server Submission",
     "url": "mail.service.babsy.ch",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "babsy-service-e-mail-server-submission",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 121,
     "timeDay": 111,
     "timeWeek": 126,
     "timeMonth": 117,
     "timeYear": 121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-24": 7
+    }
   },
   {
     "name": "Babsy Service E-Mail Server IMAP",
     "url": "mail.service.babsy.ch",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "babsy-service-e-mail-server-imap",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 121,
     "timeDay": 112,
     "timeWeek": 126,
     "timeMonth": 117,
     "timeYear": 121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-24": 5
+    }
   },
   {
     "name": "Babsy Service E-Mail Server IMAPS",
     "url": "mail.service.babsy.ch",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "babsy-service-e-mail-server-imaps",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 121,
     "timeDay": 113,
     "timeWeek": 126,
     "timeMonth": 117,
     "timeYear": 121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-24": 4
+    }
   },
   {
     "name": "Babsy Service E-Mail Server POP3",
     "url": "mail.service.babsy.ch",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "babsy-service-e-mail-server-pop-3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 121,
     "timeDay": 112,
     "timeWeek": 126,
     "timeMonth": 117,
     "timeYear": 121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-24": 3
+    }
   },
   {
     "name": "Babsy Service E-Mail Server POP3S",
     "url": "mail.service.babsy.ch",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "babsy-service-e-mail-server-pop-3-s",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
@@ -357,16 +377,18 @@
     "timeWeek": 125,
     "timeMonth": 117,
     "timeYear": 121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-24": 2
+    }
   },
   {
     "name": "Babsy Service E-Mail Server Dovecot ManageSieve",
     "url": "mail.service.babsy.ch",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "babsy-service-e-mail-server-dovecot-manage-sieve",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -375,6 +397,8 @@
     "timeWeek": 126,
     "timeMonth": 117,
     "timeYear": 121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-24": 0
+    }
   }
 ]
