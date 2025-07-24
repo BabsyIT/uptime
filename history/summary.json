@@ -1,5 +1,34 @@
 [
   {
+    "name": "Babsy",
+    "url": "https://babsy.ch/",
+    "icon": "https://icons.duckduckgo.com/ip3/babsy.ch.ico",
+    "slug": "babsy",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "0.00%",
+    "time": 5775,
+    "timeDay": 7721,
+    "timeWeek": 7721,
+    "timeMonth": 7721,
+    "timeYear": 5775,
+    "dailyMinutesDown": {
+      "2024-10-17": 33,
+      "2024-10-11": 28,
+      "2024-10-09": 46,
+      "2024-10-08": 3,
+      "2024-10-07": 54,
+      "2024-10-05": 23,
+      "2024-10-04": 43,
+      "2024-10-03": 77,
+      "2024-10-02": 24,
+      "2024-10-01": 15
+    }
+  },
+  {
     "name": "Babsy Verein",
     "url": "https://verein.babsy.ch",
     "icon": "https://icons.duckduckgo.com/ip3/verein.babsy.ch.ico",
@@ -10,11 +39,11 @@
     "uptimeWeek": "99.34%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.96%",
-    "time": 1406,
-    "timeDay": 1019,
-    "timeWeek": 1585,
-    "timeMonth": 1644,
-    "timeYear": 1406,
+    "time": 1404,
+    "timeDay": 1003,
+    "timeWeek": 1517,
+    "timeMonth": 1623,
+    "timeYear": 1404,
     "dailyMinutesDown": {
       "2025-07-24": 67,
       "2024-11-09": 122
@@ -31,11 +60,11 @@
     "uptimeWeek": "99.34%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.98%",
-    "time": 804,
-    "timeDay": 724,
-    "timeWeek": 904,
-    "timeMonth": 869,
-    "timeYear": 804,
+    "time": 807,
+    "timeDay": 1030,
+    "timeWeek": 986,
+    "timeMonth": 893,
+    "timeYear": 807,
     "dailyMinutesDown": {
       "2025-07-24": 66
     }
@@ -52,9 +81,9 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.98%",
     "time": 581,
-    "timeDay": 677,
-    "timeWeek": 1174,
-    "timeMonth": 740,
+    "timeDay": 609,
+    "timeWeek": 1096,
+    "timeMonth": 732,
     "timeYear": 581,
     "dailyMinutesDown": {
       "2025-07-24": 66
@@ -65,17 +94,17 @@
     "url": "http://newsletter.babsy.ch",
     "icon": "https://icons.duckduckgo.com/ip3/newsletter.babsy.ch.ico",
     "slug": "babsy-newslettertool-listmonk",
-    "status": "down",
+    "status": "up",
     "uptime": "52.65%",
     "uptimeDay": "95.43%",
     "uptimeWeek": "99.35%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "52.65%",
-    "time": 670,
-    "timeDay": 652,
-    "timeWeek": 814,
+    "time": 671,
+    "timeDay": 725,
+    "timeWeek": 812,
     "timeMonth": 800,
-    "timeYear": 670,
+    "timeYear": 671,
     "dailyMinutesDown": {
       "2025-07-24": 66,
       "2025-04-27": 656,
@@ -233,9 +262,9 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.98%",
     "time": 676,
-    "timeDay": 711,
-    "timeWeek": 728,
-    "timeMonth": 720,
+    "timeDay": 696,
+    "timeWeek": 721,
+    "timeMonth": 719,
     "timeYear": 676,
     "dailyMinutesDown": {
       "2025-07-24": 66
@@ -252,11 +281,11 @@
     "uptimeWeek": "99.36%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.98%",
-    "time": 124,
-    "timeDay": 118,
-    "timeWeek": 126,
+    "time": 123,
+    "timeDay": 109,
+    "timeWeek": 122,
     "timeMonth": 117,
-    "timeYear": 124,
+    "timeYear": 123,
     "dailyMinutesDown": {
       "2025-07-24": 64
     }
@@ -273,9 +302,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
     "time": 121,
-    "timeDay": 117,
-    "timeWeek": 125,
-    "timeMonth": 117,
+    "timeDay": 108,
+    "timeWeek": 121,
+    "timeMonth": 116,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2025-07-24": 63
@@ -293,9 +322,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
     "time": 121,
-    "timeDay": 116,
-    "timeWeek": 125,
-    "timeMonth": 117,
+    "timeDay": 108,
+    "timeWeek": 121,
+    "timeMonth": 116,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2025-07-24": 62
@@ -313,9 +342,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
     "time": 121,
-    "timeDay": 118,
-    "timeWeek": 126,
-    "timeMonth": 117,
+    "timeDay": 109,
+    "timeWeek": 122,
+    "timeMonth": 116,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2025-07-24": 60
@@ -333,8 +362,8 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 121,
-    "timeDay": 118,
-    "timeWeek": 126,
+    "timeDay": 109,
+    "timeWeek": 122,
     "timeMonth": 117,
     "timeYear": 121,
     "dailyMinutesDown": {
@@ -353,9 +382,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 121,
-    "timeDay": 118,
-    "timeWeek": 126,
-    "timeMonth": 117,
+    "timeDay": 109,
+    "timeWeek": 122,
+    "timeMonth": 116,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2025-07-24": 58
@@ -373,9 +402,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 121,
-    "timeDay": 117,
-    "timeWeek": 125,
-    "timeMonth": 117,
+    "timeDay": 108,
+    "timeWeek": 121,
+    "timeMonth": 116,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2025-07-24": 56
@@ -393,9 +422,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 122,
-    "timeDay": 227,
-    "timeWeek": 153,
-    "timeMonth": 124,
+    "timeDay": 182,
+    "timeWeek": 146,
+    "timeMonth": 123,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2025-07-24": 55
