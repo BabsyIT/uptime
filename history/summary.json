@@ -4,18 +4,19 @@
     "url": "https://babsy.ch/",
     "icon": "https://babsy.ch/wp-content/uploads/2021/12/cropped-babsy-logo-1.png",
     "slug": "babsy",
-    "status": "up",
-    "uptime": "93.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.19%",
-    "uptimeMonth": "98.19%",
-    "uptimeYear": "93.89%",
+    "status": "down",
+    "uptime": "94.73%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "98.43%",
+    "uptimeYear": "94.73%",
     "time": 6168,
     "timeDay": 7888,
     "timeWeek": 7562,
     "timeMonth": 7562,
     "timeYear": 6168,
     "dailyMinutesDown": {
+      "2025-07-30": 0,
       "2025-07-28": 97,
       "2025-07-27": 20,
       "2025-07-24": 29,
@@ -44,8 +45,8 @@
     "uptimeYear": "99.96%",
     "time": 1421,
     "timeDay": 1858,
-    "timeWeek": 1805,
-    "timeMonth": 1764,
+    "timeWeek": 1894,
+    "timeMonth": 1761,
     "timeYear": 1421,
     "dailyMinutesDown": {
       "2025-07-24": 67,
@@ -101,8 +102,8 @@
     "uptimeYear": "99.98%",
     "time": 810,
     "timeDay": 687,
-    "timeWeek": 980,
-    "timeMonth": 919,
+    "timeWeek": 1005,
+    "timeMonth": 923,
     "timeYear": 810,
     "dailyMinutesDown": {
       "2025-07-24": 66
@@ -132,15 +133,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/newsletter.babsy.ch.ico",
     "slug": "babsy-newslettertool-listmonk",
     "status": "up",
-    "uptime": "53.02%",
+    "uptime": "53.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "77.76%",
     "uptimeMonth": "94.88%",
-    "uptimeYear": "53.02%",
+    "uptimeYear": "53.16%",
     "time": 679,
     "timeDay": 811,
-    "timeWeek": 849,
-    "timeMonth": 809,
+    "timeWeek": 874,
+    "timeMonth": 816,
     "timeYear": 679,
     "dailyMinutesDown": {
       "2025-07-27": 1335,
@@ -302,8 +303,8 @@
     "uptimeYear": "99.98%",
     "time": 678,
     "timeDay": 728,
-    "timeWeek": 739,
-    "timeMonth": 730,
+    "timeWeek": 753,
+    "timeMonth": 733,
     "timeYear": 678,
     "dailyMinutesDown": {
       "2025-07-24": 66
@@ -321,9 +322,9 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.98%",
     "time": 124,
-    "timeDay": 100,
-    "timeWeek": 127,
-    "timeMonth": 121,
+    "timeDay": 0,
+    "timeWeek": 129,
+    "timeMonth": 122,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2025-07-24": 64
@@ -341,9 +342,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
     "time": 121,
-    "timeDay": 96,
-    "timeWeek": 127,
-    "timeMonth": 121,
+    "timeDay": 0,
+    "timeWeek": 128,
+    "timeMonth": 122,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2025-07-24": 63
@@ -361,9 +362,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
     "time": 121,
-    "timeDay": 93,
-    "timeWeek": 126,
-    "timeMonth": 121,
+    "timeDay": 0,
+    "timeWeek": 127,
+    "timeMonth": 122,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2025-07-24": 62
@@ -381,9 +382,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
     "time": 121,
-    "timeDay": 93,
-    "timeWeek": 127,
-    "timeMonth": 121,
+    "timeDay": 0,
+    "timeWeek": 128,
+    "timeMonth": 122,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2025-07-24": 60
@@ -401,9 +402,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 121,
-    "timeDay": 94,
-    "timeWeek": 126,
-    "timeMonth": 121,
+    "timeDay": 0,
+    "timeWeek": 128,
+    "timeMonth": 122,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2025-07-24": 59
@@ -421,9 +422,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 121,
-    "timeDay": 93,
-    "timeWeek": 126,
-    "timeMonth": 121,
+    "timeDay": 0,
+    "timeWeek": 128,
+    "timeMonth": 122,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2025-07-24": 58
@@ -441,9 +442,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 121,
-    "timeDay": 94,
-    "timeWeek": 126,
-    "timeMonth": 121,
+    "timeDay": 0,
+    "timeWeek": 127,
+    "timeMonth": 122,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2025-07-24": 56
@@ -461,9 +462,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 122,
-    "timeDay": 93,
-    "timeWeek": 148,
-    "timeMonth": 128,
+    "timeDay": 0,
+    "timeWeek": 152,
+    "timeMonth": 129,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2025-07-24": 55
