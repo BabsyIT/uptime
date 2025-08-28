@@ -4,19 +4,19 @@
     "url": "https://babsy.ch/",
     "icon": "https://babsy.ch/wp-content/uploads/2021/12/cropped-babsy-logo-1.png",
     "slug": "babsy",
-    "status": "up",
-    "uptime": "98.39%",
-    "uptimeDay": "98.63%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "98.39%",
+    "status": "down",
+    "uptime": "98.40%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "98.40%",
     "time": 8389,
     "timeDay": 7808,
     "timeWeek": 10155,
-    "timeMonth": 11306,
+    "timeMonth": 11277,
     "timeYear": 8389,
     "dailyMinutesDown": {
-      "2025-08-28": 20,
+      "2025-08-28": 16,
       "2025-08-25": 32,
       "2025-08-20": 25,
       "2025-08-19": 21,
@@ -57,7 +57,7 @@
     "time": 1425,
     "timeDay": 2085,
     "timeWeek": 1654,
-    "timeMonth": 1513,
+    "timeMonth": 1490,
     "timeYear": 1425,
     "dailyMinutesDown": {
       "2025-07-24": 67,
@@ -78,7 +78,7 @@
     "time": 113,
     "timeDay": 127,
     "timeWeek": 117,
-    "timeMonth": 111,
+    "timeMonth": 109,
     "timeYear": 113,
     "dailyMinutesDown": {}
   },
@@ -96,7 +96,7 @@
     "time": 126,
     "timeDay": 149,
     "timeWeek": 132,
-    "timeMonth": 125,
+    "timeMonth": 124,
     "timeYear": 126,
     "dailyMinutesDown": {}
   },
@@ -114,7 +114,7 @@
     "time": 812,
     "timeDay": 830,
     "timeWeek": 891,
-    "timeMonth": 840,
+    "timeMonth": 831,
     "timeYear": 812,
     "dailyMinutesDown": {
       "2025-07-24": 66
@@ -134,7 +134,7 @@
     "time": 599,
     "timeDay": 555,
     "timeWeek": 623,
-    "timeMonth": 581,
+    "timeMonth": 577,
     "timeYear": 599,
     "dailyMinutesDown": {}
   },
@@ -152,7 +152,7 @@
     "time": 698,
     "timeDay": 853,
     "timeWeek": 863,
-    "timeMonth": 817,
+    "timeMonth": 812,
     "timeYear": 698,
     "dailyMinutesDown": {
       "2025-07-27": 1335,
@@ -315,7 +315,7 @@
     "time": 680,
     "timeDay": 708,
     "timeWeek": 761,
-    "timeMonth": 705,
+    "timeMonth": 701,
     "timeYear": 680,
     "dailyMinutesDown": {
       "2025-07-24": 66
@@ -335,7 +335,7 @@
     "time": 124,
     "timeDay": 148,
     "timeWeek": 131,
-    "timeMonth": 124,
+    "timeMonth": 123,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2025-07-24": 64
@@ -355,7 +355,7 @@
     "time": 122,
     "timeDay": 148,
     "timeWeek": 132,
-    "timeMonth": 124,
+    "timeMonth": 123,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2025-07-24": 63
@@ -375,7 +375,7 @@
     "time": 122,
     "timeDay": 150,
     "timeWeek": 132,
-    "timeMonth": 124,
+    "timeMonth": 123,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2025-07-24": 62
@@ -395,7 +395,7 @@
     "time": 122,
     "timeDay": 149,
     "timeWeek": 132,
-    "timeMonth": 124,
+    "timeMonth": 123,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2025-07-24": 60
@@ -415,7 +415,7 @@
     "time": 122,
     "timeDay": 148,
     "timeWeek": 132,
-    "timeMonth": 124,
+    "timeMonth": 123,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2025-07-24": 59
@@ -435,7 +435,7 @@
     "time": 122,
     "timeDay": 148,
     "timeWeek": 132,
-    "timeMonth": 124,
+    "timeMonth": 123,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2025-07-24": 58
@@ -455,7 +455,7 @@
     "time": 122,
     "timeDay": 148,
     "timeWeek": 132,
-    "timeMonth": 124,
+    "timeMonth": 123,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2025-07-24": 56
@@ -475,7 +475,7 @@
     "time": 122,
     "timeDay": 150,
     "timeWeek": 132,
-    "timeMonth": 124,
+    "timeMonth": 123,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2025-07-24": 55
