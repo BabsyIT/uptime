@@ -14,11 +14,13 @@ sites:
     assignees:
       - Oliver-Babsy
       - stefan-ffr
+      - miran55
   - name: Babsy Verein
     url: https://verein.babsy.ch
     assignees:
       - Oliver-Babsy
       - stefan-ffr
+      - miran55
   - name: Babsy Server dashboard-api.babsy.ch
     check: "tcp-ping"
     url: dashboard-api.babsy.ch
@@ -26,6 +28,7 @@ sites:
     assignees:
       - Oliver-Babsy
       - stefan-ffr
+      - miran55
   - name: Babsy Server docker1.infra.babsy.ch
     check: "tcp-ping"
     url: docker1.infra.babsy.ch
@@ -33,24 +36,29 @@ sites:
     assignees:
       - Oliver-Babsy
       - stefan-ffr
+      - miran55
   - name: Babsy Jitsi
     url: https://jitsi.babsy.ch
     assignees:
       - stefan-ffr
+      - miran55
   - name: Babsy Bitwarden Passwordmanager
     url: https://bitwarden.babsy.ch
     assignees:
       - stefan-ffr
       - Oliver-Babsy
+      - miran55
   - name: Babsy Newslettertool Listmonk
     url: http://newsletter.babsy.ch
     assignees:
       - stefan-ffr
       - Oliver-Babsy
+      - miran55
   - name: Babsy Service E-Mail Server Webinterface
     url: https://mail.service.babsy.ch
     assignees:
       - stefan-ffr
+      - miran55
   - name: Babsy Service E-Mail Server SMTP
     check: "tcp-ping"
     url: mail.service.babsy.ch
@@ -63,42 +71,49 @@ sites:
     port: 465
     assignees:
       - stefan-ffr
+      - miran55
   - name: Babsy Service E-Mail Server Submission
     check: "tcp-ping"
     url: mail.service.babsy.ch
     port: 587
     assignees:
       - stefan-ffr
+      - miran55
   - name: Babsy Service E-Mail Server IMAP
     check: "tcp-ping"
     url: mail.service.babsy.ch
     port: 143
     assignees:
       - stefan-ffr
+      - miran55
   - name: Babsy Service E-Mail Server IMAPS
     check: "tcp-ping"
     url: mail.service.babsy.ch
     port: 993
     assignees:
       - stefan-ffr
+      - miran55
   - name: Babsy Service E-Mail Server POP3
     check: "tcp-ping"
     url: mail.service.babsy.ch
     port: 110
     assignees:
       - stefan-ffr
+      - miran55
   - name: Babsy Service E-Mail Server POP3S
     check: "tcp-ping"
     url: mail.service.babsy.ch
     port: 995
     assignees:
       - stefan-ffr
+      - miran55
   - name: Babsy Service E-Mail Server Dovecot ManageSieve
     check: "tcp-ping"
     url: mail.service.babsy.ch
     port: 4190
     assignees:
       - stefan-ffr
+      - miran55
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
