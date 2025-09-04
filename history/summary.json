@@ -487,17 +487,19 @@
     "url": "https://website.test.babsy.ch",
     "icon": "https://icons.duckduckgo.com/ip3/website.test.babsy.ch.ico",
     "slug": "babsy-test-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 5344,
-    "timeDay": 5344,
-    "timeWeek": 5344,
-    "timeMonth": 5344,
-    "timeYear": 5344,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "98.69%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "98.69%",
+    "uptimeYear": "98.69%",
+    "time": 3734,
+    "timeDay": 3734,
+    "timeWeek": 3734,
+    "timeMonth": 3734,
+    "timeYear": 3734,
+    "dailyMinutesDown": {
+      "2025-09-04": 0
+    }
   }
 ]
