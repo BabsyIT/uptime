@@ -8,10 +8,10 @@ sites:
 #    assignees:
 #      - Oliver-Babsy
 #      - stefan-ffr
-  - name: Babsy
-    url: https://babsy.ch/
-    icon: https://babsy.ch/wp-content/uploads/2021/12/cropped-babsy-logo-1.png
-    assignees:
+#  - name: Babsy
+#    url: https://babsy.ch/
+#    icon: https://babsy.ch/wp-content/uploads/2021/12/cropped-babsy-logo-1.png
+#    assignees:
       - Oliver-Babsy
       - stefan-ffr
       - miran55
@@ -114,11 +114,11 @@ sites:
     assignees:
       - stefan-ffr
       - miran55
-  - name: Babsy Test Website
-    url: https://website.test.babsy.ch
-    assignees:
-      - stefan-ffr
-      - miran55
+ # - name: Babsy Test Website
+ #   url: https://website.test.babsy.ch
+ #   assignees:
+ #    - stefan-ffr
+ #    - miran55
   
 
 status-website:
