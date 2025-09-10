@@ -12,9 +12,9 @@ sites:
 #    url: https://babsy.ch/
 #    icon: https://babsy.ch/wp-content/uploads/2021/12/cropped-babsy-logo-1.png
 #    assignees:
-      - Oliver-Babsy
-      - stefan-ffr
-      - miran55
+#      - Oliver-Babsy
+#      - stefan-ffr
+#      - miran55
   - name: Babsy Verein
     url: https://verein.babsy.ch
     assignees:
