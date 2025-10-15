@@ -100,7 +100,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/newsletter.babsy.ch.ico",
     "slug": "babsy-newslettertool-listmonk",
     "status": "up",
-    "uptime": "62.57%",
+    "uptime": "62.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -263,18 +263,19 @@
     "url": "https://mail.service.babsy.ch",
     "icon": "https://icons.duckduckgo.com/ip3/mail.service.babsy.ch.ico",
     "slug": "babsy-service-e-mail-server-webinterface",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 683,
     "timeDay": 469,
     "timeWeek": 703,
     "timeMonth": 688,
     "timeYear": 683,
     "dailyMinutesDown": {
+      "2025-10-15": 11,
       "2025-07-24": 66
     }
   },
@@ -283,11 +284,11 @@
     "url": "mail.service.babsy.ch",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "babsy-service-e-mail-server-smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 122,
     "timeDay": 94,
@@ -295,6 +296,7 @@
     "timeMonth": 113,
     "timeYear": 122,
     "dailyMinutesDown": {
+      "2025-10-15": 9,
       "2025-07-24": 64
     }
   },
@@ -303,11 +305,11 @@
     "url": "mail.service.babsy.ch",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "babsy-service-e-mail-server-smtps",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 121,
     "timeDay": 94,
@@ -315,6 +317,7 @@
     "timeMonth": 113,
     "timeYear": 121,
     "dailyMinutesDown": {
+      "2025-10-15": 8,
       "2025-07-24": 63
     }
   },
@@ -323,11 +326,11 @@
     "url": "mail.service.babsy.ch",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "babsy-service-e-mail-server-submission",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 121,
     "timeDay": 94,
@@ -335,6 +338,7 @@
     "timeMonth": 113,
     "timeYear": 121,
     "dailyMinutesDown": {
+      "2025-10-15": 7,
       "2025-07-24": 62
     }
   },
@@ -343,11 +347,11 @@
     "url": "mail.service.babsy.ch",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "babsy-service-e-mail-server-imap",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 121,
     "timeDay": 93,
@@ -355,6 +359,7 @@
     "timeMonth": 113,
     "timeYear": 121,
     "dailyMinutesDown": {
+      "2025-10-15": 5,
       "2025-07-24": 60
     }
   },
@@ -363,11 +368,11 @@
     "url": "mail.service.babsy.ch",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "babsy-service-e-mail-server-imaps",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 121,
     "timeDay": 94,
@@ -375,6 +380,7 @@
     "timeMonth": 113,
     "timeYear": 121,
     "dailyMinutesDown": {
+      "2025-10-15": 4,
       "2025-07-24": 59
     }
   },
@@ -383,11 +389,11 @@
     "url": "mail.service.babsy.ch",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "babsy-service-e-mail-server-pop-3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 121,
     "timeDay": 95,
@@ -395,6 +401,7 @@
     "timeMonth": 113,
     "timeYear": 121,
     "dailyMinutesDown": {
+      "2025-10-15": 3,
       "2025-07-24": 58
     }
   },
@@ -403,10 +410,10 @@
     "url": "mail.service.babsy.ch",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "babsy-service-e-mail-server-pop-3-s",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 121,
@@ -415,6 +422,7 @@
     "timeMonth": 112,
     "timeYear": 121,
     "dailyMinutesDown": {
+      "2025-10-15": 2,
       "2025-07-24": 56
     }
   },
@@ -423,9 +431,9 @@
     "url": "mail.service.babsy.ch",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "babsy-service-e-mail-server-dovecot-manage-sieve",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -435,6 +443,7 @@
     "timeMonth": 113,
     "timeYear": 121,
     "dailyMinutesDown": {
+      "2025-10-15": 0,
       "2025-07-24": 55
     }
   }
